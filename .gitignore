@@ -1,0 +1,4 @@
+# Codex local files
+.codex/
+.codex-log/
+node_modules/
